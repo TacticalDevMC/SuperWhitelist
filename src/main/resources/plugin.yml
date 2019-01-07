@@ -1,0 +1,9 @@
+name: SuperWhitelist
+main: me.joran.superwhitelist.SuperWhitelist
+version: 1.0.0
+authors: [ItsJustJoran]
+description: Een whitelist plugin.
+commands:
+  superwhitelist:
+    description: Superwhitelist main command
+    aliases: [spwh, superw]

@@ -1,0 +1,16 @@
+
+//        Inventory anvil = Bukkit.createInventory(player, InventoryType.ANVIL);
+//
+//        ItemStack sign = new ISGen(Material.SIGN).setDisplayName("test").getItem();
+//        ItemMeta signMeta = sign.getItemMeta();
+//        signMeta.setDisplayName("test");
+//        ArrayList<String> signLore = new ArrayList<>();
+//        signLore.add(loree);
+//
+//        signMeta.setLore(signLore);
+//        sign.setItemMeta(signMeta);
+//
+//
+//        anvil.setItem(0, sign);
+//
+//        player.openInventory(anvil);

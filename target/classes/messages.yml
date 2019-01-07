@@ -1,0 +1,35 @@
+# messages.yml
+# made on 2/1/2019 - 10:52
+# author ItsJustJoran
+
+# use the {prefix} value to get the plugin prefix. You can change tis on the config.yml file. xx
+geen-permissions-message: "{prefix} &c&lGeen actie!"
+
+speler-niet-gevonden: "{prefix} &7&lSpeler niet gevonden!"
+
+reload-message: "{prefix} &a&lFILES RELOADED!"
+
+# use the {player} en the {prefix} value to get the player en the frefix.
+added-to-whitelist: "{prefix} &a&lU hebt de speler &7&l{player} &a&ltoegevoegd aan de whitelist."
+
+removed-from-whitelist: "{prefix} &a&lU hebt de speler &7&l{player} &a&lverwijderd van de whitelist."
+
+al-in-whitelist: "{prefix} &c&lDe speler &7&l{player} &c&lzit al in de whitelist."
+
+niet-in-whitelist: "{prefix} &c&lDe speler &7&l{player} &c&lzit niet in de whitelist."
+
+whitelist-gezet-naar-aan: "{prefix} &a&lDe whitelist staat nu &7&laan&a&l."
+
+whitelist-already-aan: "{prefix} &c&lDe whitelist staat al &7&laan&c&l."
+
+whitelist-gezet-naar-uit: "{prefix} &a&lDe whitelist staat nu &7&luit&a&l."
+
+whitelist-already-uit: "{prefix} &c&lDe whitelist staat al &7&luit&c&l."
+
+whitelist-message-set: "{prefix} &a&lU hebt de whitelist message succesvol aangepast. Wilt u weten wat de message is? Doe dan /superwhitelist result message"
+
+trytojoinserver-message: "{prefix} &7&l{player} &c&lprobeerde de server te joinen maar hij/zij is niet gewhitelisted."
+# use the {message} en the {status} value to get the whitelist message en status from your config.
+resultbericht-message: "{prefix} &a&lDe whitelist message is momenteel: &7&l{message}"
+
+resultbericht-status: "{prefix} &a&lDe whitelist status is momenteel: &7&l{status}"

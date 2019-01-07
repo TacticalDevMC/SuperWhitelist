@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperWhitelist">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperWhitelist</output-path>
+    <root id="archive" name="SuperWhitelist.jar">
+      <element id="module-output" name="SuperWhitelist" />
+    </root>
+  </artifact>
+</component>
